@@ -135,7 +135,7 @@ int main()
                     cin >> iemi;
 
                     cout << "Enter Battery :";
-                    cin >> battery;
+                    cin >> battery;UU
 
                     cout << "Enter Wifi:";
                     cin >> wifi;
